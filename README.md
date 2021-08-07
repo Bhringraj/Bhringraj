@@ -1,8 +1,20 @@
 - 👋 Hi, I’m @Bhringraj
+
+- 🙎🏽‍♂️ I'm a Software Engineer👨🏽‍💻 and an aspiring content creator 🚀 with an ardent love for photography 📷
+
 - 👀 I’m interested in creating solutions to challenges however global 
-- 🌱 I’m currently learning vue3 and solidity
-- 💞️ I’m looking to collaborate on nodejs, vuejs, laravel projects
-- 📫 You can reach me via my email: oluwashinaodumosu@gmail.com or phone: +2349054556936
+
+- 😊 I'm very passionate about technology, charity, education, music, and sport
+<!-- - 👨🏽‍🏭 I'm currently working on -->
+
+- 💬 Ask me about web design, web application development, product management, infrastructure as a service
+
+- 🌱 I'm currently learning how to write smart contracts with Solidity and the latest concepts introduce in Vue3
+
+- 🤝🏽 I’m looking to collaborate on nodejs, vuejs, laravel projects
+
+- 📡 You can reach me via [oluwashinaodumosu@gmail.com](mailto:oluwashinaodumosu@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/odumz/)
+
 
 <!---
 Bhringraj/Bhringraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
